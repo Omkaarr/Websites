@@ -1,2 +1,1 @@
-# Websites
- Website
+Photography website template
